@@ -19,3 +19,6 @@ Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](ht
   
 ## Dialogue Systems
   * **(Ubuntu Dialogue Corpus)** The Ubuntu Dialogue Corpus : A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, 2015 [[paper]](http://arxiv.org/abs/1506.08909) [[data]](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
+
+## Text Compression
+  * **(MSR Abstractive Text Compression Datasets)** This dataset contains sentences and short paragraphs with corresponding shorter (compressed) versions. [[data]](https://www.microsoft.com/en-us/download/details.aspx?id=54262)
